@@ -5,7 +5,7 @@ import math
 yearStart = int(input("Start Year: "))
 monthStart = int(input("Start Month (numerical): "))
 dayStart = int(input("Start Day: "))
-print("PRUEBA")
+print("--------------")
 yearEnd = int(input("End Year: "))
 monthEnd = int(input("End Month (numerical): "))
 dayEnd = int(input("End Day: "))
